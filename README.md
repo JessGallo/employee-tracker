@@ -31,3 +31,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![mock-up image](./src/images/mock-up.png)
 
 ## Walkthrough Video
+
+https://drive.google.com/file/d/1WjQQBH9MY7ap3xxbmPrE-tW1nEzwwreH/view
